@@ -4,4 +4,7 @@ public class tyu {
         Scanner sc=new Scanner(System.in);
        System.out.print(1);
        }
+       
+
+
 }
